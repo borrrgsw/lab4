@@ -1,10 +1,10 @@
 # Latihan
 ![gambar](ss3.png)
-# Runing
+# Running
 ![gambar](ss4.png)
 # Tugas 
 ![gambar](ss1.png)
-# Runing
+# Running
 ![gambar](ss2.png)
 # Flowchart
 ![gambar](ss5.png)
